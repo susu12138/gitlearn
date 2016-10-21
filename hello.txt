@@ -2,3 +2,5 @@ git is version control system
 git is a free software
 hello world
 a newline
+
+here is new line on a branch
