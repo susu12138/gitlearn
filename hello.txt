@@ -5,4 +5,8 @@ a newline
 
 here is new line on a branch
 
+<<<<<<< HEAD
 haha master branch
+=======
+haha new feacher
+
